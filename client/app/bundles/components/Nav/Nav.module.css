@@ -1,0 +1,8 @@
+.container {
+  padding: 20px 0;
+  border-bottom: 2px solid black;
+  gap: 20px;
+  display: flex;
+  font-size: 24px;
+  margin-bottom: 50px;
+}

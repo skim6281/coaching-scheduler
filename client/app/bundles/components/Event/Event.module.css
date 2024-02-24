@@ -1,0 +1,7 @@
+.container {
+  border: 2px solid green;
+  border-radius: 10px;
+  margin: 15px 0;
+  max-width: fit-content;
+  padding: 5px;
+}
